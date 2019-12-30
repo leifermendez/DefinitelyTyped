@@ -1,0 +1,76 @@
+{
+  "_from": "@types/mapbox-gl",
+  "_id": "@types/mapbox-gl@1.6.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Gwy87I+7Th5UbxfucrWGmUeH1bV2J0t1aI7dze3yReF1XPSJ6c9grDHr9rML5lvsdAv6NU1WQyqctdbSrQrmyA==",
+  "_location": "/@types/mapbox-gl",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/mapbox-gl",
+    "name": "@types/mapbox-gl",
+    "escapedName": "@types%2fmapbox-gl",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/mapbox-gl/-/mapbox-gl-1.6.1.tgz",
+  "_shasum": "956dc3f96cae675bcb7edba314a395ea7183cfae",
+  "_spec": "@types/mapbox-gl",
+  "_where": "C:\\Users\\Leifer\\WebstormProjects\\hostpanel",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Dominik Bruderer",
+      "url": "https://github.com/dobrud"
+    },
+    {
+      "name": "Patrick Reames",
+      "url": "https://github.com/patrickr"
+    },
+    {
+      "name": "Karl-Aksel Puulmann",
+      "url": "https://github.com/macobo"
+    },
+    {
+      "name": "Dmytro Gokun",
+      "url": "https://github.com/dmytro-gokun"
+    },
+    {
+      "name": "Liam Clarke",
+      "url": "https://github.com/LiamAttClarke"
+    },
+    {
+      "name": "Vladimir Dashukevich",
+      "url": "https://github.com/life777"
+    }
+  ],
+  "dependencies": {
+    "@types/geojson": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for Mapbox GL JS",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/mapbox-gl",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/mapbox-gl"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "ad7290761fe9435eac5d91a137b98dfe524ecb600a57fbfb6ba690e3bf0317ad",
+  "version": "1.6.1"
+}

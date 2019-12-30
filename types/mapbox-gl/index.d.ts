@@ -72,7 +72,7 @@ declare namespace mapboxgl {
         // Zoom, Heatmap
         | 'zoom' | 'heatmap-density';
 
-    type Expression = [ExpressionName, ...any[]]
+    type Expression = [ExpressionName, any[]]
 
     type Anchor = 'center' | 'left' | 'right' | 'top' | 'bottom' | 'top-left' | 'top-right' | 'bottom-left' | 'bottom-right';
 

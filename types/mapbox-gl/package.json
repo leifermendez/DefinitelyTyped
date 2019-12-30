@@ -65,8 +65,7 @@
   "name": "@types/mapbox-gl",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
-    "directory": "types/mapbox-gl"
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git"
   },
   "scripts": {},
   "typeScriptVersion": "3.0",
